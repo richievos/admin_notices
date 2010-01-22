@@ -1,0 +1,5 @@
+<ul>
+  <% @notices.each do |notice| %>
+    <li><%= h(notice.status)%> <span class="details">on <%= notice.created_at.to_s(:quick) %></span></li>
+  <% end %>
+</ul>
