@@ -40,6 +40,7 @@
 This requires mongo for storing the notice data right now.
 
 Originally created by Richie Vos
-http://github.com/jerryvos
-http://esopp.us
-http://reeflines.com
+[@richievos](http://twitter.com/richievos)
+[github.com/jerryvos](http://github.com/jerryvos)
+[esopp.us](http://esopp.us)
+[reeflines.com](http://reeflines.com)
